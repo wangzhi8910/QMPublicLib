@@ -1,0 +1,6 @@
+framework module QMPublicLib {
+  umbrella header "QMPublicLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

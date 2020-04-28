@@ -1,0 +1,16 @@
+PODS:
+  - QMPublicLib (0.1.0)
+
+DEPENDENCIES:
+  - QMPublicLib (from `../`)
+
+EXTERNAL SOURCES:
+  QMPublicLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QMPublicLib: bd91d8d64a88bf3c51dcec015c051a9a0580cf60
+
+PODFILE CHECKSUM: 5445105d951effc1bd9633c6531379be99f9aafe
+
+COCOAPODS: 1.9.0.beta.2
